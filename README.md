@@ -1,1 +1,1 @@
-https://github.com/MariaVitaliivna/site.git
+https://github.com/MariaVitaliivna/site
