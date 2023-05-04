@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<title>Манікюр</title>
+<body style="background-image: url('https://st4.depositphotos.com/2964581/41112/i/600/depositphotos_411122162-stock-photo-abstract-defocused-pink-and-white.jpg'); background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;" >
+<h1 style="font-size:200%;" ><i>Фірми:</i></h1>
+<script>
+    alert( 'Тут зібрані фірми лаків, які я рекомендую' );
+  </script>
+<table style="border:white" border = "1"  width = "50%" cellpadding = "5">
+            <tr>
+              <th style="font-size: 20px"><i>OXXI</i></th>
+              <th style="font-size: 20px"><i>Professional Nail Boutique (PNB)</i></th>
+			  <th style="font-size: 20px"><i>ANTONIO DAMATTI</i></th>
+			  <th style="font-size: 20px"><i>Starlet Professional</i></th>
+			  <th style="font-size: 20px"><i>Nail Urban Beauty(NUB)</i></th>
+			  <th style="font-size: 20px"><i>Tertio</i></th>
+            </tr>
+			<tr>
+              <td><img src="https://cdn.parfums.ua/public/upload/brands/o/15283301635b1877b3d830d.jpg"style="width:300px;height:300px;">
+			  <img src="https://naomi24.ua/image/cache/catalog/products/new/oxxi-800x800.jpg"style="width:300px;height:300px;">
+			  <img src="https://oxxi.kiev.ua/image/cache/catalog/CATEGORIES%202020/oxxi_2022/3-370x220.jpg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/watermarked/1/detailed/65/gel-oxxi_olqk-ot.jpg"style="width:300px;height:300px;">
+			  <img src="https://amoreshop.com.ua/images/watermarked/detailed/50/OXXI-Professional-25.jpg"style="width:300px;height:300px;">
+			  <img src="https://oxxi.kiev.ua/image/cache/catalog/CATEGORIES%202020/OXXI_3-370x220.jpg"style="width:300px;height:300px;">
+			  <img src="https://oxxi.kiev.ua/image/catalog/banner-oxxi-pofessional.jpg"style="width:300px;height:300px;">
+			  <img src="http://lak-gel.com/wp-content/uploads/2017/10/oxxi-otzyvy.jpg"style="width:300px;height:300px;">
+			  </td>
+			  <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyOjuKn72GaI-bxPLBjrczOQfMXZCC-Xsd-A&usqp=CAU"style="width:300px;height:300px;">
+			  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2-iTuxsat1FeJLxK6Du0CAEnfeU29cJYI3aooTgRQgg9rGFTmD6pfuzhLmEcd9QjTL6Y&usqp=CAU"style="width:300px;height:300px;">
+			  <img src="https://master-new.com.ua/image/cache/for%20category/kollekcii-gel-lakov-pnb-newcategory-min-320x230.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/2249482813_w640_h640_gel-laki.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/1803998718_w640_h640_gel-lak-pnb-.jpg"style="width:300px;height:300px;">
+			  <img src="https://pnb-shop.com.ua/image/cache/catalog/Gel%20Polish%5D/nogti/253_hand-800x800.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/1475720067_w640_h640_startovyj-nabor-pnb.jpg"style="width:300px;height:300px;">
+			  <img src="https://french.com.ua/img_files/gallery_commerce/products/small/commerce_products_photo_15772.jpg?7eacb532570ff6858afd2723755ff790"style="width:300px;height:300px;">
+			  </td>
+			  <td><img src="https://french-shop.com.ua/image/catalog/antonio-damatti/antonio-damatti.jpg"style="width:300px;height:300px;">
+			  <img src="https://amoreshop.com.ua/images/watermarked/detailed/122/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F.jpg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/palitra%20antonio%20damatti.png?1569850916229"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/glitter%20antonio%20damatti.png?1569851027135"style="width:300px;height:300px;">
+			  <img src="https://cdn.parfums.ua/public/upload/productComments/6012e83b6b11c761955013.jpeg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/baza%20top%20antonio%20damatti.png?1569850977787"style="width:300px;height:300px;">
+			  <img src="https://cdn.parfums.ua/public/cache/330/products/15724435025db9956e57157.jpg"style="width:300px;height:300px;">
+			  <img src="https://amoreshop.com.ua/images/watermarked/detailed/173/5bce0354bdf2fdbf01689fcd88bc8c60.jpg"style="width:300px;height:300px;">
+			  </td>
+			  <td><img src="https://images.prom.ua/1451545201_w640_h640_gel-laki-starlet-professional.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/1081061144_w640_h640_starlet-professional-gel.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.deal.by/207340279_w600_h600_207340279.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/2334153791_w600_h600_2334153791.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/556555419_w600_h600_556555419.jpg"style="width:300px;height:300px;">
+			  <img src="https://cdn.100sp.ru/pictures/179760103"style="width:300px;height:300px;">
+			  <img src="https://images.deal.by/238237488_gel-lak-starlet-professional.jpg"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/3016813546_w640_h640_top-bez-lipkogo.jpg"style="width:300px;height:300px;">
+			  </td>
+			  <td><img src="https://xlightnails.files.wordpress.com/2017/02/img_1952.jpg"style="width:300px;height:300px;">
+			  <img src="https://naomi24.ua/image/cache/catalog/products/new/nub_palitra_585-800x800.jpg"style="width:300px;height:300px;">
+			  <img src="https://naomi24.ua/image/cache/catalog/products/new/1_708-800x800.jpg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/detailed/105/NUB-%D1%89%D1%8B%D1%82.jpg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/nud---statiia-1.jpg?1509632336733"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/1490733151_nanesenie-gel-laki-nub.jpg"style="width:300px;height:300px;">
+			  <img src="https://naomi24.ua/image/cache/catalog/products/new/90022994_205-800x800.jpg"style="width:300px;height:300px;">
+			  <img src="https://i.pinimg.com/originals/a9/81/3f/a9813f369bc4fb5bb09d0668957f67e3.jpg"style="width:300px;height:300px;">
+			  </td>
+			  <td><img src="https://images.ua.prom.st/2894536946_w640_h640_gel-lak-138-tertio.jpg"style="width:300px;height:300px;">
+			  <img src="https://yeah-shop.com.ua/image/catalog/category-img/gel-laki/tertio.png"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/561342599_w640_h640_gel-laki-tertio.jpg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/%D0%A2%D0%B5%D1%80%D1%82%D0%B8%D0%BE1.jpg?1631534487481"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/detailed/105/tertio-osn.jpg"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/na-opys-tertio-1.jpg?1543495350189"style="width:300px;height:300px;">
+			  <img src="https://www.tufishop.com.ua/images/companies/1/na-opys-tertio-2.jpg?1543495383117"style="width:300px;height:300px;">
+			  <img src="https://images.prom.ua/2263554235_w200_h200_podarochnyj-nabor-dlya.jpg"style="width:300px;height:300px;">
+			  </td>
+			</tr>
+</body>
+</html>
