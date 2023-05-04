@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<html iang="en">
+<head>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" href="D:\masha\інфа\веб-дизайн\мій сайт\1\css\корисне.css">
+	<title>Манікюр</title>
+</head>
+<body>
+<h1 style="font-size:200%;" ><i>Корисне:</i></h1>
+<h1 class="intro_title"><i>Посилання:</i></h1>
+<nav style="font-size:150%;"><i>
+<a class="nav_link" href="https://www.youtube.com/channel/UCkWpYXicmJAGNy3fvCdSWRA">Татьяна Бугрий youtube</a>
+<a class="nav_link" href="https://www.instagram.com/tatyana_bugry/"><br>Татьяна Бугрий instagram</br></a>
+<a class="nav_link" href="https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbVd2ZTlKNmc3UzQxTkNIa2xhcl9Bcl9pN0tpd3xBQ3Jtc0tuRV85SGFOV0FuUDdXQkN4R1J6VVNwZjdKM1Q5WnMzS3FxZVJOUTB5NXFWU1N1VzlvMVVnOW1HX0JsQzRUVW1hOFZkNFlJZnVOR0h0TDFtVTVCZHdtZ1RJS2pWYWllZVFfTF9SRnhacktjbEdCTFM1bw&q=https%3A%2F%2Finstagram.com%2Fjounail%3Figshid%3D1pachvmtgcgbf">JOUNAIL instagram</a>
+<a class="nav_link" href="https://www.youtube.com/channel/UCFK0aJ1wxpypitqD9XcHSrg"><br>JOUNAIL youtube</br></a>
+<a class="nav_link" href="https://www.youtube.com/channel/UCQ6vjZmjVgpwPDwAtITPH0Q"><br><br>20 Nails youtube</br></br></a>
+<a class="nav_link" href="https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa0tUTUlYeldxTy03Qy1LRm5NWWhfN3kzRHNTQXxBQ3Jtc0tudWlOS19YMG5GaEVXb0dWYjEzZHkxWEplcUVIM3RjaG9oODZnaXdyV0dad1lnWGpFWHRYR3JCczlURDhmRW9WSVpwMXctSmVscXA4RDFvTGp2WURqVjBIVXRWb01wemhjZFR4bTYxeTFKZmhfM1Rsdw&q=https%3A%2F%2Fwww.instagram.com%2F20nailart"><br><br><br>20 Nails instagram</br></br></br></a>
+<a class="nav_link" href="https://www.youtube.com/channel/UCL4eZD6yS_xdjtigu6iOodA"><br>Gabby youtube</br></a>
+<a class="nav_link" href="https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbUtJRXZJYmEzUV9Tcll1aC1GcWhEekhNaXJZZ3xBQ3Jtc0trVkNwTHZTY1BtLUV2N2hhS2pnbGRTUnJrZkxhcjZwOUE5a2V6VWZ2SXRSRnBaWkxiSmdjTENxemlOeUNhY3hDXzVUN0pYcUFnekhjeTROQjNrV3ZFbE1SeWZyLS1aLWpSTjR1VEtJZzRfa1FtcHc1OA&q=https%3A%2F%2Fwww.instagram.com%2Fgabbysnailart%2F">Gabby instagram</a>
+<a class="nav_link" href="https://www.youtube.com/user/TheNailCouture"><br>Nail Couture youtube</br></a>
+<a class="nav_link" href="https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa3A5U01uRUFzNE1uLVd2cG1LZ09wdFRVT2dsUXxBQ3Jtc0tuLUMwZHpkaDE1Q1FwRlh3ZzlWRmgzQlRsbXg5YVNkcWFHb3lic25iQjNSakpoR0xNM2JGcXVvaktwTS03WGdFd1JSbU5XYkRmbE1vNUtha1hSNWUwZXFGeFlKRlFSVWRTa0Frc1RhZ3dIdmlpR3RlSQ&q=http%3A%2F%2Finstagram.com%2Fnailcou"><br>Nail Couture instagram</br></a>
+</i></nav>
+<br><br><div><a class="btn" href="index.html">На головну</a></div></br></br>
+</body>
+</html>
